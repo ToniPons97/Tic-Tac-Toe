@@ -6,5 +6,6 @@
 #Example
 
 1.Player 1: 1 1 X
+
 2.Player 2: 0 2 O
 
