@@ -5,7 +5,6 @@
 
 #Example
 
-1.Player 1: 1 1 X
-
-2.Player 2: 0 2 O
+1.Player 1 inputs to the terminal: 1 1 X
+2.Player 2 inputs to the terminal: 0 2 O
 
